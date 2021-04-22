@@ -16,9 +16,9 @@ Real time object measurement using **Canny Edge Detection** `cv2.Canny()` and `c
     
     
 ## Test Measurement
-The mobile was on 1m high above the ruler like in the trackbar controle.
+The mobile was 1m high above the ruler like in the trackbar control.
 
-The real length of the ruler is **23cm x 10cm** and mouse pad is **24cm x 20cm**
+The real length of the ruler is **23cm x 10cm** and the mouse pad is **24cm x 20cm**.
 
 ![Test Measurement](measurement.gif)
 
